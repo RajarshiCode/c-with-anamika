@@ -13,6 +13,21 @@ int main()
         9. wap in c to find the absolute value of the number given by the user
         10. Currency notes in quantities of 10, 50, and 100 are available to cashiers. If the amount to be withdrawn is entered on the keyboard in hundreds, calculate the total number of currency notes of each denomination that the cashier must present to the withdrawer. 
         11. if sp of 15 items and the total profit is given, find the cp.
+        // #include <stdio.h>
+
+// int main()
+// { 
+    
+//     // 15  sp = 25, cp = 20 profit = 5
+//     int totalSp = 0, pf = 0, n = 15, cp = 0; // cp = ?
+//     printf("Enter the total Selling price:\n");
+//     scanf("%d", &totalSp);
+//     printf("Enter the total profit:\n");
+//     scanf("%d", &pf);
+//     cp = (totalSp/n) - (pf/n);
+//     printf("The cost price per item = %d", cp);
+//     return 0;
+// }
         12. marks of 3 subjects given find the percentage, and total marks obtained - (total marks in each subject is 100).
 
 
