@@ -2,12 +2,7 @@
 
 /*
     loops, functions, arrays, strings
-
-
 */
-
-
-
 
 #include<stdio.h>
 
